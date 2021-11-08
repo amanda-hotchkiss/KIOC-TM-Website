@@ -1,0 +1,39 @@
+:root {
+    --primary-color: #00A685;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+}
+.empower-people {
+    width: 150px;
+}
+
+.community-img {
+    width: 200px
+}
+
+.client-img {
+    width: 200px;
+}
+
+.techmasters-img {
+    width: 180px;
+}
+
+.navbar {
+    background-color: #E94C38;
+}
+
+.join-btn {
+    background-color: #E94C38;
+    color: white;
+    margin: 20px;
+}
+
+.join-btn:hover {
+    background-color: #e0351f;
+    color: white;
+}
